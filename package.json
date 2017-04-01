@@ -1,0 +1,10 @@
+{
+    "name": "skill_list",
+    "version": "0.1.0",
+    "description": "笔记、踩坑经验",
+    "author": {
+        "name": "kevin-xk",
+        "email": "kevin_xukai@163.com",
+        "url": "https://github.com/kevin-xk/skill_list"
+    }
+}
